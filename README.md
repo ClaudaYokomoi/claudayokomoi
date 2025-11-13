@@ -23,12 +23,16 @@ From building **interactive web apps** for environmental initiatives to **analyz
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=plastic&logo=eslint&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white)  
 
 ---
+# 📊 GitHub Stats & Trophies
 
+<table>
+<tr>
+<td><img src="https://github-readme-stats.vercel.app/api?username=claudayokomoi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"></td>
+<td><img src="https://nirzak-streak-stats.vercel.app/?user=claudayokomoi&theme=dracula&hide_border=false" alt="Streak Stats"></td>
+</tr>
 
 ---
 
-
----
 
 [![Profile Visits](https://visitcount.itsvg.in/api?id=claudayokomoi&icon=0&color=0)](https://visitcount.itsvg.in)  
 
