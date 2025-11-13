@@ -24,26 +24,9 @@ From building **interactive web apps** for environmental initiatives to **analyz
 
 ---
 
-# 🚀 Current Projects
-- **Climaterra Hub**: Connecting communities with environmental initiatives.  
-- **Walk & Paint at Karura**: Community event blending creativity and nature 🎨💻.  
 
 ---
 
-# 📊 GitHub Stats & Trophies
-
-<table>
-<tr>
-<td><img src="https://github-readme-stats.vercel.app/api?username=claudayokomoi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"></td>
-<td><img src="https://nirzak-streak-stats.vercel.app/?user=claudayokomoi&theme=dracula&hide_border=false" alt="Streak Stats"></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=claudayokomoi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"></td>
-</tr>
-<tr>
-<td colspan="2" align="center"><img src="https://github-profile-trophy.vercel.app/?username=claudayokomoi&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="Trophies"></td>
-</tr>
-</table>
 
 ---
 
